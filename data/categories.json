@@ -1,0 +1,14 @@
+[
+	{ "id": "C-41JKIICMN9", "name": "Adhesives", "color": "#8B0000" },
+	{ "id": "C-KB33QGA2LR", "name": "Concrete and Masonry", "color": "#808080" },
+	{ "id": "C-OBK71S19VV", "name": "Construction Tools", "color": "#556B2F" },
+	{ "id": "C-FHT38YLD6J", "name": "Electrical Supplies", "color": "#FFD700" },
+	{
+		"id": "C-GDBZPPAOUR",
+		"name": "Fasteners and Hardware",
+		"color": "#FFA500"
+	},
+	{ "id": "C-EEVK3MHWRG", "name": "Flooring Materials", "color": "#D4A373" },
+	{ "id": "C-6JCUIMB1FZ", "name": "Painting Supplies", "color": "#FF6347" },
+	{ "id": "C-ENFJRODZ3Q", "name": "Plumbing Materials", "color": "#1E90FF" }
+]
